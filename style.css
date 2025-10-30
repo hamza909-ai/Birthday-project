@@ -64,4 +64,25 @@ body {
     background-color: #ff4f94;
     text-decoration: none;
 
+
+}
+@media (max-width: 768px) {
+    .card {
+        width: 90%;
+        height: auto;
+        padding: 15px;
+    }
+
+    .card h2 {
+        font-size: 35px;
+    }
+
+    .card p {
+        font-size: 18px;
+    }
+
+    .btn {
+        padding: 20px 20px;
+        font-size: 20px;
+    }
 }
