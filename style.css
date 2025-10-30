@@ -9,8 +9,8 @@ body {
 }
 
 .card {
-    width: 350px;
-    height: 210px;
+    width: 700px;
+    height: 350px;
     background-color: #fff;
     border-radius: 30px;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
@@ -25,8 +25,9 @@ body {
 .card h2 {
     color: #ff6fae;
     margin: 20px;
-    font-size: 26px;
+    font-size: 50px;
     text-align: top;
+    margin: 25px;
 
 
 
@@ -34,21 +35,24 @@ body {
 
 .card p {
     color: #444;
-    font-size: 15px;
+    font-size: 25px;
     margin: 5px 0 15px;
     font-family: cursive;
-    text-align: center;
+    text-align: center; 
+
+    
 
 }
 
 .btn {
+    margin: 30px;
     display: inline-block;
     background-color: #ff6fae;
     color: #fff;
-    padding: 10px 20px;
+    padding: 27px 27px;
     border-radius: 25px;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 25px;
     text-align: center;
     position: relative;
     overflow: hidden;
